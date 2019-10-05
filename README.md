@@ -11,10 +11,10 @@
 
 public Plugin myinfo = {
     name        = "[CS:GO] VIP Menu",
-    author      = "Javierko",
+    author      = "molter",
     description = "VIP Plugin - placená konfigurace",
     version     = "1.0",
-    url         = "https://github.com/javierko"
+    url         = "https://github.com/molter123456789"
 };
 
 public void OnPluginStart()
